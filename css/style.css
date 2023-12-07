@@ -9,8 +9,13 @@ html, body {
     font-family: 'Mountains of Christmas', serif;
   }
 
+h3 {
+  font-size: 2.5rem;
+}  
+
 p a {
-  color: white
+  color: white;
+  font-size: 1.25rem;
 }
 
 a:hover,
@@ -43,10 +48,10 @@ a:focus {
     margin-bottom: 25px;
   }
 h3 {
-    font-size: 1rem
+    font-size: 1.75rem
   }
 p {
-    font-size: .5rem
+    font-size: 1rem
   }
 }
 
@@ -56,9 +61,10 @@ p {
     margin-bottom: 15px;
   }
   h3 {
-    font-size: .75rem
+    font-size: 1.25rem
   }
   p {
     line-height: 1;
+    font-size: .75rem;
     }
   }
